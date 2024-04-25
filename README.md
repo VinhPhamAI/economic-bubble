@@ -1,5 +1,11 @@
-
-
+# Folder Structure:
+- download_data.ipynb : dùng để tải dữ liệu trong một khoảng thời gian.
+  
+- Note : Chứa một số idea mà em note trong quá trình đọc paper để implement code
+  
+- LPPLS : Code python cho LPPLS model
+  
+- GSADF : Code R cho GSADF model
 
 # Empirical findings
 

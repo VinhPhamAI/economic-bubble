@@ -1,7 +1,11 @@
+
+
+
 # Empirical findings
 
 ### GSADF results 
 - Kết quả từ 01/01/2017-01/01/2022
+
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/fb0a43d4-e2cd-4670-bf10-a570b8286e9d)
 
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/d1ac129b-cc8e-4ee6-b7d1-39235af719ed)
@@ -10,12 +14,27 @@ Từ đồ thị trên ta có thể thấy trong giai đoạn 2017-2018 xuất h
 
 Đồng thời trong năm 2019 cũng đã xác định một nhiều bong bóng nhưng chủ yếu ta thấy model đã xác định được từ 2019-06-21 đến 2019-06-30 có hiện tượng bong bóng xảy ra sát với kết quả trong paper yao2020
 
-Kết quả từ năm 01/01/2022-04/25/2024
+Model cũng xác định được giai đoạn giữa tháng 11-2020 đến tháng 01-2021 và từ đầu năm 2021 đến khoảng giữa tháng 5-2021 tồn tại các bong bóng giống như trên wiki đã nói
+
+- Kết quả từ năm 01/01/2022-04/25/2024
+
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/1692e7d2-80aa-4bf9-925a-4af1e1e3d57a)
 
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/5f62763f-1fad-4188-ba50-57b5531caab5)
 
 
+### LPPLS results
+
+Sử dụng khoảng bong bóng từ model GSADF chúng ta có thể tìm được bursting point của bubbles
+![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/2f8acdc6-19d8-44d4-8011-21076594519b)
+
+![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/18dc8a27-9655-44dd-86b5-53c104a69b41)
+
+# Conclusion
+
+Mặc dù GSADF method có thể tìm kiếm khoảng thời gian xuất hiện bubbles một cách hiệu quả, tuy nhiên model này chưa tính toán được chính xác bursting point của bubble. Nên chúng ta dùng khoảng thời gian thu được từ GSADF model để employ LPPLS model để suy ra thời gian bubble bursts.
+
+Ngoài ra từ hệ số log-periodic frequency ω trong model LPPLS ta có thể biết được sự biến động. Tần số log-periodic càng cao thì sự phân kỳ(divergence) giữa các nhà giao dịch và thị trường càng cao và hỗn loạn hơn. 
 
 
 # References

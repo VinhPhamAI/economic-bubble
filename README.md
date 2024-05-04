@@ -1,3 +1,6 @@
+
+
+
 # Folder Structure:
 - download_data.ipynb : dùng để tải dữ liệu trong một khoảng thời gian.
   
@@ -37,7 +40,7 @@ Sử dụng khoảng bong bóng từ model GSADF chúng ta có thể tìm đư�
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/18dc8a27-9655-44dd-86b5-53c104a69b41)
 
 
-### IMPROVED TEST FOR DETECTING EXPLOSIVE BUBBLES
+# IMPROVED TEST FOR DETECTING EXPLOSIVE BUBBLES
 
 
 # Conclusion

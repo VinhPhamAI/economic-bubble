@@ -36,6 +36,10 @@ Sử dụng khoảng bong bóng từ model GSADF chúng ta có thể tìm đư�
 
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/18dc8a27-9655-44dd-86b5-53c104a69b41)
 
+
+### IMPROVED TEST FOR DETECTING EXPLOSIVE BUBBLES
+
+
 # Conclusion
 
 Mặc dù GSADF method có thể tìm kiếm khoảng thời gian xuất hiện bubbles một cách hiệu quả, tuy nhiên model này chưa tính toán được chính xác bursting point của bubble. Nên chúng ta dùng khoảng thời gian thu được từ GSADF model để employ LPPLS model để suy ra thời gian bubble bursts.

@@ -1,10 +1,17 @@
+# Efficient Market Theory (No Bubbles Exist) and Behavioural Finance Theory (Bubbles Exist)
+### The efficient market theory
+- The efficient market theory holds that markets are efficient and the value of expected price today is equal to the discounted value of the next‎ period's‎ anticipated‎ value. This theory holds that information is available, and the market is at the fair value or the correct equilibrium price and there are no bubbles.
+- There is no overpriced or underpriced assets points out that information comes into the market randomly and is incorporated‎ instantly‎ into‎ today‘s‎ price believes that people are rational and make logical decisions.
+- It is too hard to make money in the market if it is efficient and if investors want to have a higher return, they have to purchase riskier stocks due to a lack of accurate forecasts in the market. Proponents of this theory believe that, if the stock price was undervalued, eventually someone would have suddenly bought stocks and pushed up the stock price to its equilibrium value, and so there is no bargain in this market.
+### Behavioural Finance Theory
+- Behavioural finance theory, in contrast to Fama, is based on cognitive psychology on how people react and holds that people can be irrational, illogical, and overreact emotionally. This theory attempts to apply some psychology principals and the human condition (e.g. greed, fear, overreaction, and others) to explain financial market behavior.
+- According to the publication of two papers in 1981 by LeRoy and Shiller, the volatility in stock prices are not justified by the new information in the market about future dividends or the present value of future earnings. There is still a debate among financial economists on the existence of bubbles in the market. For example, Garber (1989) believes that change in market conditions and rational behaviour of market participants is responsible for fluctuations in market prices (Garber, 1989). In contrast, Shiller (2000) argued that irrational exuberance (excessive optimism) caused the high stock prices in 1990 (Shiller, 2000), and emotions may play a significant role in financial decision making (Shiller & Akerlof,
+2009).
 
 
 
 # Folder Structure:
-- download_data.ipynb : dùng để tải dữ liệu trong một khoảng thời gian.
-  
-- Note : Chứa một số idea mà em note trong quá trình đọc paper để implement code
+- download_data.ipynb : Tải dữ liệu trong một khoảng thời gian được xác định.
   
 - LPPLS : Code python cho LPPLS model
   

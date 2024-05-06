@@ -38,6 +38,9 @@ Model cũng xác định được giai đoạn giữa tháng 11-2020 đến thá
 
 ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/5f62763f-1fad-4188-ba50-57b5531caab5)
 
+- Kết quả trong short term (25-04-2024 -> 5-05-2024) (chưa thực hiện sai phân)
+  ![image](https://github.com/VinhPhamAI/economic-bubble/assets/115690131/8cf3c857-2a27-43eb-8e3f-94049910643b)
+
 
 ### LPPLS results
 
